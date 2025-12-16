@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "雨を浴びる",
+  "base_artist": "ツユ",
+  "createdAt": "2025-12-16T13:04:01.597873Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雨を浴びる",
+      "artist": "ツユ",
+      "has_synced": false,
+      "path": "select/pl_01_雨を浴びる_ツユ.txt"
+    }
+  ]
+}
